@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Yusaku01/Yusaku01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Engineer with 3 years of experience, bridging the gap between design and development.
+Passionate about the Astro ecosystem and actively contributing to OSS, including Japanese documentation translation for Astro.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+- TypeScript / JavaScript
+- React / Astro
+- HTML / CSS
+
+**Styling**
+- UnoCSS / Tailwind CSS
+
+**Tools & Platforms**
+- Cloudflare
+- Biome
+- Vitest
+- Playwright
+
+## 🌱 Currently Interested In
+
+- Astro's Content Loader API & View Transitions
+- Feature-based Architecture
+- Web Performance Optimization
+- Modern Development Toolchains (Biome, Vite, etc.)
+
+## 🌏 OSS Contributions
+
+- [Astro Docs](https://github.com/withastro/docs) - Japanese documentation translation & maintenance
+
+## 📝 Blog & Links
+
+- My Blog: [https://saku-space.com/]
+- X (Twitter): [https://x.com/Saku37215349]
