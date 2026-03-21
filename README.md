@@ -13,6 +13,7 @@ Passionate about the Astro ecosystem and actively contributing to OSS, including
 ## 🌏 OSS Contributions
 
 - [Astro Docs](https://github.com/withastro/docs) - Japanese documentation translation & maintenance
+- [Starlight](https://github.com/withastro/starlight) - Japanese documentation translation
 
 ## Contributer Badge
 
