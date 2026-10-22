@@ -21,5 +21,5 @@ Passionate about the Astro ecosystem and actively contributing to OSS, including
 
 ## 📝 Blog & Links
 
-- My Blog: [https://saku-space.com/]
-- X (Twitter): [https://x.com/Saku37215349]
+- My Blog - https://saku-space.com/
+- X (Twitter) - https://x.com/Saku37215349
