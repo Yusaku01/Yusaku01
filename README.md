@@ -1,21 +1,21 @@
-## Hi there 👋
+## Hi there
 
-I'm a Frontend Engineer with 3 years of experience, bridging the gap between design and development.
+I'm Design Engineer, bridging the gap between design and development.
 Passionate about the Astro ecosystem and actively contributing to OSS, including Japanese documentation translation for Astro.
 
-## 🌱 Currently Interested In
+## Currently Interested In
 
-- Astro's Content Loader API & View Transitions
-- Feature-based Architecture
+- Astro's API
 - Web Performance Optimization
-- Modern Development Toolchains (Biome, Vite, etc.)
+etc.
 
-## 🌏 OSS Contributions
+## OSS Contributions
 
-- [Astro Docs](https://github.com/withastro/docs) - Japanese documentation translation & maintenance
-- [Starlight](https://github.com/withastro/starlight) - Japanese documentation translation
+- [Astro Docs](https://github.com/withastro/docs)
+- [Starlight](https://github.com/withastro/starlight)
+- [EmDash](https://github.com/emdash-cms/emdash)
 
-## Contributer Badge
+### Astro Contributer Badge
 
 [![@Yusaku01 Astro contributions](https://astro.badg.es/v2/contributor/Yusaku01.svg)](https://astro.badg.es/contributor/Yusaku01/)
 
